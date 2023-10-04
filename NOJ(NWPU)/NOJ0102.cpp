@@ -32,3 +32,8 @@ int main()
     cout << fixed << setprecision(2) << vz << endl;
     return 0;
 }
+
+/*
+用例1未通过	0ms	0kb	输入或者输出数据的格式和样例不符合 0
+用例2未通过	0ms	0kb	输入或者输出数据的格式和样例不符合 0
+*/
