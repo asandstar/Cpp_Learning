@@ -1,3 +1,10 @@
+/*
+题目内容：已知f(x)=1/(1+x*x)，编写函数用梯形法计算f(x)在区间[a,b]的积分。
+输入格式：输入a和b，a＜b，均为double型
+输出格式：输出为double型
+输入样例：0.5 1
+输出样例：0.321751
+*/
 #include <iostream>
 #include <cmath>
 using namespace std;
