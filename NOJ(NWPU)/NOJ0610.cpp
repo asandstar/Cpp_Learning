@@ -1,3 +1,15 @@
+/*
+题目内容：有一篇文章，共有3行文字，每行最多有80个字符。
+编写程序分别统计出文章中英文大写字母、小写字母、数字、空格及其他字符的个数。
+输入格式：输入3行字符串
+输出格式：输出英文大写字母、小写字母、数字、空格、其他字符的个数，用空格分隔。
+输入样例：
+Nikon at the frontiers of science.
+Flash(Adobe Flash Media Rights Management Server)
+21.03,-0.87,-3.97%
+输出样例：
+8 62 10 10 11
+*/
 #include <iostream>
 #include <stdio.h>
 #include <string.h>
