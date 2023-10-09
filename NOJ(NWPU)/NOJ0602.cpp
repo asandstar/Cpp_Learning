@@ -1,3 +1,10 @@
+/*
+题目内容：编写一个程序实现将字符串中的所有”you”替换成”we”
+输入格式：输入数据是一个字符串，长度不超过1000
+输出格式：对于输入的每一行，输出替换后的字符串
+输入样例：you are what you do
+输出样例：we are what we do
+*/
 #include <iostream>
 #include <string>
 #include <algorithm>
