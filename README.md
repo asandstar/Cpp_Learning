@@ -1,6 +1,6 @@
 # PKU_MOOC_C-STL（Code_from_ppt）
 ## 时间：2022/02/18-2022/02/23
-除了copy ppt /抄ppt代码 我啥都不会（大雾
+type code from the ppt is far from enough!
 
 # Accelerated C++
 ## 时间：2022/03/11-2022/03/21
@@ -18,7 +18,7 @@
 # 清华C++
 ## 时间：2022/04/22-2022/04/27
 
-# C++ Primer and effective C++
+# C++ Primer and effective C++ CS106L
 my version of sol is more important
 2024/1/5-forever
 
